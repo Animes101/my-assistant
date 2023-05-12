@@ -1,0 +1,31 @@
+@media all and ( max-width:250px){
+    .logo-img a{
+        font-size:20px;
+    } 
+    .logo-img a img{
+        width:30%;
+    }
+    .container>h1{
+        font-size:20px;
+        margin:10px;
+    }
+    .container input{
+        font-size:12px;
+    }
+    .container button{
+        width:50%;
+        font-size:15px;
+    }
+}
+@media all and (max-width:412px){
+    .logo-img a img{
+        width:30%;
+    }
+}
+@media all and (max-width:600px){
+    .logo-img a img{
+        width:20%;
+    }
+}
+
+
